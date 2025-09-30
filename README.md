@@ -284,6 +284,19 @@ Pipeline-Design-Optimizer/
 - **Mathematical Accuracy**: Engineering-grade calculations
 - **Quality Documentation**: Comprehensive technical details
 
+## 📸 Screenshots
+
+### Main Interface
+![First page](image_(17).png)
+
+### Input Form
+![Thickness calculation example](image_(18).png)
+
+### Calculation Results
+![Material Detailed Calculations Buttons](image_(19).png)
+
+
+
 ## 🤝 Contributing
 
 We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
