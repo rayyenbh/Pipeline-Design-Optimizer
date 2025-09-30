@@ -18,6 +18,7 @@ A professional desktop application for optimizing pipeline design with comprehen
 - [File Structure](#file-structure)
 - [Data Requirements](#data-requirements)
 - [Report Generation](#report-generation)
+- [Screenshots](#Screenshots)
 - [Contributing](#contributing)
 - [License](#license)
 - [Support](#support)
