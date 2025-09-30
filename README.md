@@ -287,13 +287,13 @@ Pipeline-Design-Optimizer/
 ## 📸 Screenshots
 
 ### Main Interface
-![First page](image_(17).png)
+![First page](image (17).png)
 
 ### Input Form
-![Thickness calculation example](image_(18).png)
+![Thickness calculation example](image (18).png)
 
 ### Calculation Results
-![Material Detailed Calculations Buttons](image_(19).png)
+![Material Detailed Calculations Buttons](image (19).png)
 
 
 
